@@ -1,0 +1,12 @@
+{
+  "92":{
+    "database":"company",
+    "table":"news",
+    "columns":["id","content"]
+  },
+  "93":{
+    "database":"bank",
+    "table":"accounts",
+    "columns":["id","name","money"]
+  }
+}
